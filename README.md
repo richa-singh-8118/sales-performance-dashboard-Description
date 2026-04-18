@@ -5,6 +5,8 @@
 ## 📌 Project Overview
 This project is a comprehensive Business Intelligence (BI) solution designed to analyze sales performance for a global retail corporation. It covers the entire data lifecycle: from synthetic data generation and automated cleaning to SQL-based KPI generation and interactive Power BI visualization.
 
+**🚀 Live Demo:** [Deploying to Streamlit Cloud...](#-how-to-deploy-live) (See instructions below to get your own public link!)
+
 The goal is to provide management with actionable insights into revenue trends, regional performance, and product profitability to drive data-driven decision-making.
 
 ---
@@ -83,3 +85,12 @@ The goal is to provide management with actionable insights into revenue trends, 
 3. Run `python scripts/data_cleaning.py` to preprocess the data.
 4. Import `cleaned_sales_data.csv` into MySQL and execute `sql/queries.sql`.
 5. Connect `cleaned_sales_data.csv` to Power BI and apply the DAX measures from `docs/dax_measures.md`.
+
+---
+
+## 🌐 How to Deploy Live (Streamlit Cloud)
+To get a public "Deploy Link" for your resume, follow these 3 simple steps:
+1. Go to [share.streamlit.io](https://share.streamlit.io/).
+2. Connect your GitHub account and select this repository.
+3. Set the Main file path to: `scripts/dashboard_app.py`.
+4. Click **Deploy**! You will get a custom URL like `https://your-dashboard.streamlit.app`.
