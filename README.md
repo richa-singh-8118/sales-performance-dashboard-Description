@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 This project is a comprehensive Business Intelligence (BI) solution designed to analyze sales performance for a global retail corporation. It covers the entire data lifecycle: from synthetic data generation and automated cleaning to SQL-based KPI generation and interactive Power BI visualization.
 
-**🚀 Live Demo:** [Deploying to Streamlit Cloud...](#-how-to-deploy-live) (See instructions below to get your own public link!)
+**🚀 Live Demo:** [View Live Dashboard](https://sales-performance-dashboard-description-j8xkt9ofw9jdfvqltkkvun.streamlit.app/)
 
 The goal is to provide management with actionable insights into revenue trends, regional performance, and product profitability to drive data-driven decision-making.
 
